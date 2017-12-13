@@ -9,5 +9,5 @@ Formatação das pasta:
     - img => pasta para imagens
     - js => pasta para arquivos JavaScript
     - plugins => pasta para bibliotecas adjacentes do JavaScript
-    páginas htmls => arquivos soltos 
+    - páginas htmls => arquivos soltos 
  
