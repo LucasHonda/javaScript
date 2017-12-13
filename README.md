@@ -8,7 +8,6 @@ Formatação das pasta:
     - fonts =>  pasta para fontes
     - img => pasta para imagens
     - js => pasta para arquivos JavaScript
-    - plugins => pasta para bibliotecas JavaScript
-    - htmls => páginas htmls livres 
+    - plugins => pasta para bibliotecas JavaScript   
     
  
