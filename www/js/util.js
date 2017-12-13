@@ -250,3 +250,7 @@ window.addEventListener( 'error', function( event ){
 		toastError("Ooops... Algo deu errado!");
     return false;
 });
+
+function carregar(){
+	setInterval(() => location.reload(), 100);
+}
