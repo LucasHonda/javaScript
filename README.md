@@ -13,8 +13,8 @@ Um browser atualizado e de preferência uma IDE.
 ```
 IDE's interessantes:
 ```
-*[ATOM](https://atom.io) - simples e tem boas bibliotecas.
-*[BRACKETS](http://brackets.io) - simples.
+* [ATOM](https://atom.io) - simples e tem boas bibliotecas.
+* [BRACKETS](http://brackets.io) - simples.
 
 ### Installing
 
