@@ -2,16 +2,20 @@
 
 Projeto dedicado a demonstrar o básico sobre o JavaScript.
 
-## Getting Started
+## Começando pelo "Começo"
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Qual quer máquina irá rodar o projeto, basta cloná-lo ou realizar o download de uma cópia.
 
-### Prerequisites
+### Pré-requisitos
 
-What things you need to install the software and how to install them
+Um browser atualizado e de preferência uma IDE.
 
 ```
-Give examples
+IDE's interessantes:
+
+*[ATOM](https://atom.io) - simples e tem boas bibliotecas.
+*[BRACKETS](http://brackets.io) - simples.
+
 ```
 
 ### Installing
