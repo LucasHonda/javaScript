@@ -1,6 +1,6 @@
-# Project Title
+# JavaScript
 
-One Paragraph of project description goes here
+Projeto dedicado a demonstrar o básico sobre o JavaScript.
 
 ## Getting Started
 
