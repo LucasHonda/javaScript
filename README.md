@@ -10,12 +10,9 @@ Qual quer máquina irá rodar o projeto, basta cloná-lo ou realizar o download 
 
 Um browser atualizado e de preferência uma IDE.
 
-```
-IDE's interessantes:
-
+ - IDE's interessantes:
 * [ATOM](https://atom.io) - simples e tem boas bibliotecas.
-* [BRACKETS](http://brackets.io) - simples.
-```
+* [BRACKETS](http://brackets.io) - simples.```
 
 
 ### Installing
