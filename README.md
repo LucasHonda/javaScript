@@ -26,7 +26,8 @@ Implemente seus códigos JavaScript em uma página html e execute em um browser.
 # Formatação das pastas
 
 - www => Pasta principal
- * css => pasta para arquivos css    
+ * css => pasta para arquivos css  
+ * demo => pasta para demonstração
  * doc => pasta da documentacao criada
   * fonts =>  pasta para fontes
   * img => pasta para imagens
