@@ -28,7 +28,8 @@ Implemente seus códigos JavaScript em uma página html e execute em um browser.
   - www => Pasta principal
     - css => pasta para arquivos css
     - demo => pasta recursiva
-    - fonts =>  pasta para fontes
+    - doc => pasta da documentação criada
+    - fonts =>  pasta para fontes
     - img => pasta para imagens
     - js => pasta para arquivos JavaScript
     - plugins => pasta para bibliotecas JavaScript  
