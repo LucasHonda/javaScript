@@ -27,7 +27,7 @@ Implemente seus códigos JavaScript em uma página html e execute em um browser.
 
 - www => Pasta principal
   * css => pasta para arquivos css    
-  * doc => pasta da documentação criada
+  * doc => pasta da documentacao criada
   * fonts =>  pasta para fontes
   * img => pasta para imagens
   * js => pasta para arquivos JavaScript
